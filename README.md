@@ -1,7 +1,6 @@
 # [Soft UI Dashboard PRO Laravel](https://soft-ui-dashboard-pro-laravel.creative-tim.com/login)
 <!--- nu stiu ce versiune e -->
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) 
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
