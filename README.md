@@ -7,7 +7,7 @@
 
 *Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel/?ref=sudpl-readme 
 
-![Image](https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/soft-ui-pro.gif)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="100%" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/dashboard-default) 
 
 Soft UI Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend components with an out of the box Laravel backend. Everything enhanced by Livewire & Alpine.js. In short, it's the ultimate fullstack resource we coded with [UPDIVISION](https://updivision.com/) to help developers build complex apps faster. 
 
