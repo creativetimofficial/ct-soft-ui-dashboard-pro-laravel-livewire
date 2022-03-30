@@ -7,7 +7,7 @@
 
 *Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel/?ref=sudpl-readme 
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="100%" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/dashboard-default) 
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/493/original/soft-ui-dashboard-pro-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel) 
 
 Soft UI Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend components with an out of the box Laravel backend. Everything enhanced by Livewire & Alpine.js. In short, it's the ultimate fullstack resource we coded with [UPDIVISION](https://updivision.com/) to help developers build complex apps faster. 
 
@@ -67,7 +67,7 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
  - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
 Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md   
-And Laravel: https://laravel.com/docs/8.x/installation
+And Laravel: https://laravel.com/docs/9.x/installation
 
 
 ## Installation
