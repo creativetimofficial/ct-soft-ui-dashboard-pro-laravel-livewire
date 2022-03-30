@@ -13,3 +13,6 @@ All notable changes to `Soft UI PRO Dashboard Laravel`  will be documented in th
 - Tag CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## [1.0.1]
+- Update to Laravel 9.x
