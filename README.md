@@ -1,13 +1,13 @@
-# [Soft UI Dashboard PRO Laravel](https://soft-ui-dashboard-pro-laravel.creative-tim.com/login)
+# [Soft UI Dashboard PRO Laravel Livewire](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/login)
 <!--- nu stiu ce versiune e -->
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire/issues?q=is%3Aopen+is%3Aissue) 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire/issues?q=is%3Aissue+is%3Aclosed)
 
 
-*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel/?ref=sudpl-readme 
+*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire/?ref=sudpl-readme 
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/493/original/soft-ui-dashboard-pro-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel) 
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/493/original/soft-ui-dashboard-pro-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel-livewire) 
 
 Soft UI Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend components with an out of the box Laravel backend. Everything enhanced by Livewire & Alpine.js. In short, it's the ultimate fullstack resource we coded with [UPDIVISION](https://updivision.com/) to help developers build complex apps faster. 
 
@@ -90,40 +90,40 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 
 ## Versions
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire)
 
 | HTML | Laravel |
 | --- | --- |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/soft-ui-html.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel)
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/soft-ui-html.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire)
 
 ## Demo
 | Register | Login | 
 | --- | --- | 
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Register.png" width="483" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/register) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Login.png" width="483" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/login)  
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Register.png" width="483" />](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/register) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Login.png" width="483" />](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/login)  
 
 | Forgot Password Page | Reset Password Page | 
 | --- | --- | 
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Forgot-password.png" width="483" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/forgot-password) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Reset-password.png" width="483" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com) 
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Forgot-password.png" width="483" />](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/forgot-password) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Reset-password.png" width="483" />](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com) 
 
 | Dashboard | Virtual Reality  |
 | ---  | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="480" />](https://soft-ui-dashboard-pro-laravel.creative-tim.com/dashboard-default) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/vr.png" width="484"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/dashboard-virtual-reality)
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="480" />](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/dashboard-default) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/vr.png" width="484"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/dashboard-virtual-reality)
 
 | Profile Page | User Management |
 | ---  | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Profile.png" width="485"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-user-profile) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Users-management.png" width="475"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-users-management?q=%2Flaravel-users-management&sortField=id&sortDirection=asc)
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Profile.png" width="485"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-user-profile) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Users-management.png" width="475"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-users-management?q=%2Flaravel-users-management&sortField=id&sortDirection=asc)
 
 | Role Management | Item Management  |
 | --- | --- | 
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Role-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-roles-management?q=%2Flaravel-roles-management&sortField=id&sortDirection=asc)| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Items-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-items-management?q=%2Flaravel-items-management&sortField=id&sortDirection=asc)
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Role-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-roles-management?q=%2Flaravel-roles-management&sortField=id&sortDirection=asc)| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Items-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-items-management?q=%2Flaravel-items-management&sortField=id&sortDirection=asc)
 
 | Category Management | Tag Management | 
 | --- | --- |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Category-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-category-management?q=%2Flaravel-category-management&sortField=id&sortDirection=asc) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Tags-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel.creative-tim.com/laravel-tags-management?q=%2Flaravel-tags-management&sortField=id&sortDirection=asc)
-[View More](https://soft-ui-dashboard-pro-laravel.creative-tim.com)
+| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Category-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-category-management?q=%2Flaravel-category-management&sortField=id&sortDirection=asc) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Tags-management.png" width="483"/>](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/laravel-tags-management?q=%2Flaravel-tags-management&sortField=id&sortDirection=asc)
+[View More](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com)
 
 ## Documentation
-The documentation for the Soft UI Dashboard Laravel is hosted at our [website](https://soft-ui-dashboard-pro-laravel.creative-tim.com/documentation/bootstrap/overview/soft-ui-dashboard/index.html).
+The documentation for the Soft UI Dashboard Laravel is hosted at our [website](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/documentation/bootstrap/overview/soft-ui-dashboard/index.html).
 
 ### Login
 If you are not logged in you can only access this page or the Sign Up page. The default url takes you to the login page where you use the default credentials **admin@softui.com** with the password **secret** but you can change them with the credentials for creator and for member. Logging in is possible only with already existing credentials. For this to work you should have run the migrations. The user also has the option to choose if he wants to be remembered or not.
@@ -511,7 +511,7 @@ At present, we officially aim to support the last two versions of the following 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Soft UI Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel?ref=readme-sudpl).
+1. Make sure that you are using the latest version of the Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire?ref=readme-sudpl).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
