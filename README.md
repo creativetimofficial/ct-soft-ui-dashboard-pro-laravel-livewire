@@ -92,7 +92,7 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire)
 
-| HTML | Laravel |
+| HTML | Laravel Livewire |
 | --- | --- |
 | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/soft-ui-html.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-pro-laravel/Dashboard.png" width="483"/>](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire)
 
