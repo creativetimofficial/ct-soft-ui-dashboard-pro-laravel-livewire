@@ -5,7 +5,7 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire/issues?q=is%3Aissue+is%3Aclosed)
 
 
-*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel-livewire/?ref=sudpl-readme 
+*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-pro/?ref=sudpl-readme 
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/493/original/soft-ui-dashboard-pro-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel-livewire) 
 
