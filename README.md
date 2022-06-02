@@ -1,4 +1,4 @@
-# [Soft UI Dashboard PRO Laravel Livewire](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/login)
+# 2 [Soft UI Dashboard PRO Laravel Livewire](https://soft-ui-dashboard-pro-laravel-livewire.creative-tim.com/login)
 <!--- nu stiu ce versiune e -->
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire.svg)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro-laravel-livewire/issues?q=is%3Aopen+is%3Aissue) 
