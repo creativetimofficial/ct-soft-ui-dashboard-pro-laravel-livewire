@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to `Soft UI Dashboard PRO Laravel Livewire`  will be documented in this file.
+All notable changes to `Soft UI Dashboard PRO Laravel`  will be documented in this file.
 
 ## [1.0.0]
 ### Original Release
@@ -13,6 +13,3 @@ All notable changes to `Soft UI Dashboard PRO Laravel Livewire`  will be documen
 - Tag CRUD
 - Item CRUD
 - User roles & access restrictions
-
-## [1.0.1]
-- Update to Laravel 9.x
